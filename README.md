@@ -143,7 +143,7 @@ meditrak-demand-forecasting/
 
 ```pip install -r requirements.txt```
 
-## Add libraries and freeze the requirements and (Update pip if needed)
+### Add libraries and freeze the requirements and (Update pip if needed)
 ```pip install pandas numpy matplotlib seaborn scikit-learn```
 ```pip freeze > requirements.txt```
 ```python --version```
