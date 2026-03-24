@@ -128,22 +128,27 @@ meditrak-demand-forecasting/
 -->bash terminal
 
 ### 1. Clone Repository
+
 ```git clone <your-repo-link>```
+
 ```cd meditrak-demand-forecasting```
 
-2. Create Virtual Environment
+### 2. Create Virtual Environment
+
 ```python -m venv venv```
+
 ```source venv/Scripts/activate```
 
-3. Install Dependencies
+### 3. Install Dependencies
+
 ```pip install -r requirements.txt```
 
-Add libraries and freeze the requirements and (Update pip if needed)
+## Add libraries and freeze the requirements and (Update pip if needed)
 ```pip install pandas numpy matplotlib seaborn scikit-learn```
 ```pip freeze > requirements.txt```
 ```python --version```
 
-4. Run Pipeline
+### 4. Run Pipeline
 ```python main.py```
 
 ---
@@ -164,8 +169,8 @@ Improve forecasting with time-series models
 
 ---
 
-👩‍💻 Author
-Akhila T
+👩‍💻 Author 
+- Akhila T
 2003akhilat@gmail.com
 
 
