@@ -184,8 +184,10 @@ Improve forecasting with time-series models
 
 ---
 
-👩‍💻 Author 
+# 👩‍💻 Author 
+
 Akhila T
+
 2003akhilat@gmail.com
 
 
