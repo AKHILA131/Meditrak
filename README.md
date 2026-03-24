@@ -160,18 +160,26 @@ meditrak-demand-forecasting/
 
 ---
 
-📦 Outputs Generated
+## 📦 Outputs Generated
+
 models/best_model.pkl → Trained model
+
 reports/model_evaluation.csv → Model comparison
+
 reports/next_month_forecast.csv → Future demand
+
 reports/plots/ → Visualization graphs
 
 ---
 
-🧠 Future Improvements
+## 🧠 Future Improvements
+
 Use advanced models (XGBoost, LSTM)
+
 Add real-time data integration
+
 Deploy using Streamlit or Flask
+
 Improve forecasting with time-series models
 
 ---
