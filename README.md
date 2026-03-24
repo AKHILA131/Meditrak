@@ -127,11 +127,13 @@ meditrak-demand-forecasting/
 ## 🚀 How to Run the Project
 -->bash terminal
 
+
 ### 1. Clone Repository
 
 ```git clone <your-repo-link>```
 
 ```cd meditrak-demand-forecasting```
+
 
 ### 2. Create Virtual Environment
 
@@ -139,14 +141,19 @@ meditrak-demand-forecasting/
 
 ```source venv/Scripts/activate```
 
+
 ### 3. Install Dependencies
 
 ```pip install -r requirements.txt```
 
 ### Add libraries and freeze the requirements and (Update pip if needed)
+
 ```pip install pandas numpy matplotlib seaborn scikit-learn```
+
 ```pip freeze > requirements.txt```
+
 ```python --version```
+
 
 ### 4. Run Pipeline
 ```python main.py```
